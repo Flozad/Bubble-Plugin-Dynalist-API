@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "compliance",
+        "2": "technical",
+        "3": "containers"
+    },
+    "demo_page": "https://plugin-api.bubbleapps.io/version-test/dynalist?debug_mode=true",
+    "description": "Documentation on: https://apidocs.dynalist.io/\n\nThe best outlining app for your best work\nWhere brilliant ideas are captured, fleshed out, and realized.\n\nActions:\n- Get all documents and folders\n- Make changes to documents and folders\n- Get content of a document\n- Check if documents has been updated\n- Make change to the content of a document\n\n(not official)\n\nIf you feel there is something missing feel free to shoot an email to clasicwebtools[@]gmail.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1668996033067x371427592901602400/unnamed%20%282%29.png",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=dynalist&id=plugin-api&test_plugin=1668994915597x173937061007458300_current&tab=tabs-5",
+    "name": "Dynalist API",
+    "plugin_instructions": "1 - Install the plugin into your app\n2 - Create your Adalo APP and get API key at https://dynalist.io/developer\n3 - add your api key and start using the actions from the plugin"
+}
